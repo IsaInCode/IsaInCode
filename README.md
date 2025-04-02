@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou IsaInCode!
 
-<!--
-**IsaInCode/IsaInCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Sobre mim
 
-Here are some ideas to get you started:
+Sou técnica em informática e apaixonada por desenvolvimento de software. Gosto de aprender coisas novas, explorar tecnologias e criar soluções inovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que eu faço?
+
+- 💻 Trabalho com HTML5, CSS3 e Javascript.
+
+- 🔍 Tenho interesse em front-end e desenvolvimento Full-stack.
+
+- 📚 Sempre buscando novos desafios e aprendizados.
+
+
+## 📌 Meus Projetos
+
+Confira alguns dos meus projetos nos repositórios abaixo!
+
+## 📫 Entre em contato
+
+- 📧 isadorafernandes10003@gmail.com
+
+
+
+## ⚡ Curiosidade sobre mim
+
+- 🎮 Sou viciada em jogos de enigmas e posso passar horas desvendando cada mistério.
