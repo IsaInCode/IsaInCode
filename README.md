@@ -17,12 +17,15 @@ Sou técnica em informática e apaixonada por desenvolvimento de software. Gosto
 
 Confira alguns dos meus projetos nos repositórios abaixo!
 
-## 📫 Entre em contato
+<div>
+   <img align="center" alt="isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Isa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-- 📧 isadorafernandes10003@gmail.com
 
+##
 
-
-## ⚡ Curiosidade sobre mim
-
-- 🎮 Sou viciada em jogos de enigmas e posso passar horas desvendando cada mistério.
+<div>
+<a href = "isadorafernandes10003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
