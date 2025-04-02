@@ -17,7 +17,7 @@ Sou técnica em informática e apaixonada por desenvolvimento de software. Gosto
 
 Confira alguns dos meus projetos nos repositórios abaixo!
 
-<div text-align="left">
+<div>
    <img src="img/![clideo_editor_7303fc929a8744e893670467fbd4fb35](https://github.com/user-attachments/assets/77ddaa44-0d3e-4eda-b72e-59fe9b1ad8c1)
 ">
 </div>
